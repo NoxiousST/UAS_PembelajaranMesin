@@ -1,7 +1,7 @@
 # Analisis Sentimen Ulasan Amazon Menggunakan K-Nearest Neighbors (KNN) dengan Berbagai Metode Ekstraksi Fitur: BoW, TF-IDF, dan Word2Vec
 
 > **Daniel Kristian Jatmiko**
-> **A11.2021.13429**
+ **A11.2021.13429**
 
 
 ---
@@ -62,7 +62,7 @@ graph TD
 ### **Penjelasan Dataset**  
 Dataset yang digunakan berasal dari **Kaggle**: [Amazon Product Reviews](https://www.kaggle.com/datasets/kritanjalijain/amazon-reviews/).  
 
-###### **Variabel Utama**:  
+##### **Variabel Utama**:  
 1. **Polarity**: Label sentimen (`1` = negatif, `2` = positif).  
 2. **Title**: Judul ulasan.  
 3. **Text**: Isi ulasan produk.  
